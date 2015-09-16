@@ -1,2 +1,6 @@
 print("Hello world")
+<<<<<<< HEAD
 3333
+=======
+22222
+>>>>>>> hotfix
