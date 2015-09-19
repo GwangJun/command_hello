@@ -1,2 +1,2 @@
 print("Hello world")
-22222
+printf
